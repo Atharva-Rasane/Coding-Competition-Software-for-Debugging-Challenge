@@ -3,7 +3,7 @@ This Software will help you to setup debugging challenge for coding competitions
 
 ----
 > # How to use:
->  - Open the file in a Python IDE or Text Editor.
+>  - Open the file Debug_Me.py in a Python IDE or Text Editor.
 >  - Edit the list 'Q' on line 6 add the error code/question.
 >  - Edit the list 'A' on line 38 add the correct solutions for the question in the same index.
 >  - Edit the timer variables on line 72 to disable timer replace 'update_time()' with '#update_time()' on line 108.
