@@ -92,7 +92,7 @@ def Check_code():
     if a == b:
         label2.config(text="CORRECTED", fg="green")
     else:
-        label2.config(text="ERROR", fg="remd")
+        label2.config(text="ERROR", fg="red")
 
 
 # START
